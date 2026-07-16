@@ -114,7 +114,7 @@ thin-file-credit-scoring/
 ├── notebook/
 │   └── credit_scoring_thin_file_analysis.ipynb
 └── dashboard/
-    └── (Power BI, in progress)
+    └── (Power BI)
 ```
 
 ## Disclaimer
